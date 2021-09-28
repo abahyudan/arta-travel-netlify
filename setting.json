@@ -226,26 +226,7 @@
           "name-attribute":"content",
           "value-attribute":"${authorPost}"
         },
-],
-      "data-innerHTML":"",
-      "position":"start"
-    },
-    {
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"async",
-          "value-attribute":"async"
-        },
-        {
-          "name-attribute":"src",
-          "value-attribute":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-        },
-        {
-          "name-attribute":"data-ad-client",
-          "value-attribute":"ca-pub-7827510955569116"
-        }
-      ],
+
       "data-innerHTML":"",
       "position":"start"
     }
