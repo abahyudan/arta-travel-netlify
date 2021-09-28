@@ -72,21 +72,6 @@
     {
       "name-element":"meta",
       "data-attribute":[
-{
-      "name-element":"meta",
-      "data-attribute":[
-        {
-          "name-attribute":"name",
-          "value-attribute":"google-site-verification"
-        },
-        {
-          "name-attribute":"content",
-          "value-attribute":"i4wH1viz6ZihiMUd51tlUp5-19cPQ-gOIQG48BFNGVI"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"start"
-    },
         {
           "name-attribute":"name",
           "value-attribute":"viewport"
@@ -225,8 +210,8 @@
         {
           "name-attribute":"content",
           "value-attribute":"${authorPost}"
-        },
-
+        }
+      ],
       "data-innerHTML":"",
       "position":"start"
     }
