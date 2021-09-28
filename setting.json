@@ -72,6 +72,21 @@
     {
       "name-element":"meta",
       "data-attribute":[
+{
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"128ZEYs7A46Uwze-M9KdhoVHgvpiL0uIsg-iEFxSZcQ"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
         {
           "name-attribute":"name",
           "value-attribute":"viewport"
@@ -210,6 +225,25 @@
         {
           "name-attribute":"content",
           "value-attribute":"${authorPost}"
+        },
+],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"async",
+          "value-attribute":"async"
+        },
+        {
+          "name-attribute":"src",
+          "value-attribute":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        },
+        {
+          "name-attribute":"data-ad-client",
+          "value-attribute":"ca-pub-7827510955569116"
         }
       ],
       "data-innerHTML":"",
